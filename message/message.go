@@ -14,7 +14,7 @@ import (
 var (
 	prefix = "!"
 	self   = true
-	owner  = "6289636559820"
+	owner  = "6282331660134"
 )
 
 func Msg(client *whatsmeow.Client, msg *events.Message) {
